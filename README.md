@@ -1,6 +1,34 @@
-![image](https://user-images.githubusercontent.com/26158226/155850630-137ae3be-aa29-487b-a422-e8fb4db634dc.png)
+# async-aws-s3-mongo-stripe-next
 
-Support Ukraine: [link 1](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi), [link 2](https://prytulafoundation.org/en)
+# 🚀 Async - open source SaaS web app. Use it as a self-hosted team communication tool or as a starting project for your own SaaS product. 🚀
+
+https://github.com/coding-to-music/async-aws-s3-mongo-stripe-next
+
+https://async-aws-s3-mongo-stripe-next.vercel.app
+
+From / By https://github.com/async-labs/async
+
+- APP: https://1.async-await.com
+
+- API: https://api-xphxggip.async-await.com
+## Environment variables:
+
+```java
+See below
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/async-aws-s3-mongo-stripe-next.git
+git push -u origin main
+```
+
 
 ------------
 

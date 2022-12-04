@@ -1,0 +1,21 @@
+{
+  "name": "async-aws-s3-mongo-stripe-next",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/26158226/155850630-137ae3be-aa29-487b-a422-e8fb4db634dc.png)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-labs/async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/async-labs/async/issues"
+  },
+  "homepage": "https://github.com/async-labs/async#readme"
+}
